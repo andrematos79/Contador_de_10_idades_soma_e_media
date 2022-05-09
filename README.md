@@ -1,0 +1,1 @@
+# Contador_de_10_idades_soma_e_media
